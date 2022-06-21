@@ -1,0 +1,14 @@
+{
+  "name": "api-simple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "netlify": "netlify dev"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "netlify-cli": "^10.5.1"
+  }
+}
